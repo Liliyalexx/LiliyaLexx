@@ -6,47 +6,59 @@
 
 ## Professional Summary
 
-Full-Stack Software Engineer specializing in JavaScript, Java, React, and Spring Boot with strong project management skills. Combines technical expertise with business acumen to deliver user-focused solutions. Passionate about building AI-integrated applications and optimizing development workflows.
+Full-Stack Software Engineer with economics background, specializing in JavaScript, Java, and AI-integrated applications. Combines technical expertise with business analytics skills to deliver data-driven solutions. Certified in both software development and project management.
 
 🔗 [LinkedIn](https://linkedin.com/in/liliya-fed) | [GitHub](https://github.com/Liliyalexx)
 
 ## 🛠 Technical Skills
 
-**Frontend:** React, Angular, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS  
-**Backend:** Node.js, Express, Spring Boot, Django  
-**Databases:** MongoDB, MySQL, Oracle  
-**DevOps:** AWS, Jenkins, Git  
-**Methodologies:** Agile, RESTful APIs, Microservices  
+**Frontend:** React, Angular, JavaScript, TypeScript  
+**Backend:** Node.js, Spring Boot, Django, REST APIs  
+**Data:** MongoDB, SQL, Oracle, AWS  
+**AI/ML:** OpenAI, DeepAI integration  
 
 ## 🌟 Featured Project: Visuality Social Media
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Heroku-430098?style=flat-square)](https://social-media-visuality-6b16f66b0b08.herokuapp.com/)
-[![Trello Board](https://img.shields.io/badge/Trello-Backlog-0052CC?style=flat-square)](https://trello.com/b/6MKoaEuz/backlog)
 
-### Key Features:
-- **AI-Powered Experience**: DeepAI image generation + Weather API integration
-- **Engagement Tools**: Post creation/boards, likes, comments
-- **Secure Auth**: Passport.js with session management
-- **Responsive UI**: Tailwind CSS with dynamic carousel
+*AI-generated content + Weather API integration*
 
-### Tech Stack:
-`Node.js` `Express` `MongoDB` `EJS` `Tailwind CSS` `DeepAI API`
+### Tech Highlights:
+- **Architecture**: MVC with Mongoose schemas
+- **Innovation**: DeepAI image generation engine
+- **Security**: Passport.js authentication
+- **UI**: Tailwind CSS responsive design
 
 ## Professional Experience
 
-### **Software Engineer Apprenticeship** @ Adobe (Feb-May 2025)
-- Developed full-stack applications using React.js and Django
-- Built AI-integrated quiz game, social media with OpenAI API
+### **Software Engineer** @ Anthem Blue Cross Blue Shield  
+*(Infosys Project | Aug 2022-Aug 2023)*  
+- Developed 25+ healthcare portal features using Java/Spring Boot  
+- Streamlined workflows by 30% through JIRA optimization  
 
-### **Software Engineer** @ PitchLabs (Jan-Aug 2024)
-- Created custom web applications using TypeScript/Node.js
-- Implemented client-requested features with Bootstrap/jQuery
+### **Software Engineer** @ Toyota Motors  
+*(Infosys Project | Mar-Sep 2022)*  
+- Enhanced Toyota.com components with jQuery/Spring Boot  
+- Implemented Oracle DB solutions for inventory management  
 
-### **Software Engineer** @ Infosys (Feb 2022-Aug 2023)
-- Led 6-engineer team to develop Hackathon-winning internship portal
-- Optimized workflows resulting in 30% efficiency improvement
+### **SWE Apprentice** @ Adobe *(Feb-May 2025)*  
+- Built AI quiz application with OpenAI integration  
 
 ## Education
-🎓 **Google Project Management Certification** (2024-2025)  
-🎓 **Per Scholas** - Full Stack Development (Valedictorian, 2024)  
-🎓 **Caltech** - Post Graduate Program in Full Stack Web Development  
+
+🎓 **General Assembly**  
+Full-Stack JavaScript & Python (Django) | Feb-May 2025  
+
+🎓 **Per Scholas**  
+Software Engineering (Valedictorian) | Apr-Aug 2024  
+
+🎓 **California Institute of Technology**  
+PGP Full Stack Development | Dec 2020-Jan 2022  
+
+🎓 **State University of Economics**  
+B.A. Economics/Marketing  
+*Thesis: Economics/Marketing*  
+
+## Certifications
+✅ Google Project Management (2025)  
+✅ Meta Backend Professional (2024)  
