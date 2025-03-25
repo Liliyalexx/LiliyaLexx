@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Full-Stack Software Engineer with economics background, specializing in JavaScript, Java, and AI-integrated applications. Combines technical expertise with business analytics skills to deliver data-driven solutions. Certified in both software development and project management.
+Full-stack software Engineer with an economics background, specializing in JavaScript, Java, and AI-integrated applications. Combines technical expertise with business analytics skills to deliver data-driven solutions. Certified in both software development and project management.
 
 🔗 [LinkedIn](https://linkedin.com/in/liliya-fed) | [GitHub](https://github.com/Liliyalexx)
 
@@ -31,18 +31,20 @@ Full-Stack Software Engineer with economics background, specializing in JavaScri
 
 ## Professional Experience
 
+
+### **SWE Apprentice** @ Adobe *(Feb-May 2025)*  
+- Built AI quiz application with OpenAI integration
+- Built AI Social Media application with image-generating  OpenAI integration  
+
 ### **Software Engineer** @ Anthem Blue Cross Blue Shield  
 *(Infosys Project | Aug 2022-Aug 2023)*  
-- Developed 25+ healthcare portal features using Java/Spring Boot  
+- Developed 25+ healthcare portal features using Java/Spring Boot/DRL  
 - Streamlined workflows by 30% through JIRA optimization  
 
 ### **Software Engineer** @ Toyota Motors  
 *(Infosys Project | Mar-Sep 2022)*  
 - Enhanced Toyota.com components with jQuery/Spring Boot  
 - Implemented Oracle DB solutions for inventory management  
-
-### **SWE Apprentice** @ Adobe *(Feb-May 2025)*  
-- Built AI quiz application with OpenAI integration  
 
 ## Education
 
@@ -52,7 +54,7 @@ Full-Stack JavaScript & Python (Django) | Feb-May 2025
 🎓 **Per Scholas**  
 Software Engineering (Valedictorian) | Apr-Aug 2024  
 
-🎓 **California Institute of Technology**  
+🎓 **California Institute of Technology (Caltech)**  
 PGP Full Stack Development | Dec 2020-Jan 2022  
 
 🎓 **State University of Economics**  
