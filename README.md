@@ -18,8 +18,7 @@ Full-stack software Engineer with an economics background, specializing in JavaS
 **AI/ML:** OpenAI, DeepAI integration  
 
 ## Quiz Game with AI-generated questions
-[Quiz Game that uses AI-generated questions based on a chosen theme](https://liliyalexx.github.io/quiz_Game/)
-
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Quiz_Game-FFA500?style=flat-square)](https://liliyalexx.github.io/quiz_Game/)
 *Quiz application that uses AI to generate questions based on user-selected topics. The game includes a timer, character selection for the time, background music, and sound effects to enhance the user experience.*
 
 - **Topic Selection** Users can input a topic (e.g., "AI", "History", "Science").
@@ -44,7 +43,7 @@ Each question includes 4 options with one correct answer and 2 options with true
 - **UI**: Tailwind CSS responsive design
 
 ## 🥗 Mindful Meals is a full-stack application designed to help users find restaurants that cater to specific dietary needs.
-[![Live Demo](https://mindful-meals.netlify.app/sign-in)]
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=flat-square)](https://mindful-meals.netlify.app/sign-in)
 [Backend](https://github.com/Liliyalexx/Mindful-Meals-Backend)
 [Frontend](https://github.com/Liliyalexx/Mindful-Meals)
 Features
