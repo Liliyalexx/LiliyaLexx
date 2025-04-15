@@ -17,8 +17,23 @@ Full-stack software Engineer with an economics background, specializing in JavaS
 **Data:** MongoDB, SQL, Oracle, AWS  
 **AI/ML:** OpenAI, DeepAI integration  
 
-## 🌟 Featured Project: Visuality Social Media
+## Quiz Game with AI-generated questions
+[Quiz Game that uses AI-generated questions based on a chosen theme](https://liliyalexx.github.io/quiz_Game/)
 
+*Quiz application that uses AI to generate questions based on user-selected topics. The game includes a timer, character selection for the time, background music, and sound effects to enhance the user experience.*
+
+- **Topic Selection** Users can input a topic (e.g., "AI", "History", "Science").
+The application maps the topic to a category and fetches relevant questions.
+- **Character Selection**
+Users can choose a character (e.g., 🐶, 🐱) to represent timer during the quiz.
+- **AI-Generated Questions** Questions are generated dynamically using the OpenAI API.
+Each question includes 4 options with one correct answer and 2 options with true or false answers.
+- **Timer** A 20-second timer is displayed for each question. If the user doesn't answer in time, the question is marked as incorrect.
+- **Sound Effects** Correct answers trigger a "ding" sound. Incorrect answers or timeouts trigger a "wrong" sound.
+- **Score Tracking** The user's score is displayed at the end of the quiz.
+- **Responsive Design** The application is designed to work on both desktop and mobile devices.
+
+## 🌟 Featured Project: Visuality Social Media
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Heroku-430098?style=flat-square)](https://social-media-visuality-6b16f66b0b08.herokuapp.com/)
 
 *AI-generated content + Weather API integration*
@@ -33,19 +48,19 @@ Full-stack software Engineer with an economics background, specializing in JavaS
 [Backend](https://github.com/Liliyalexx/Mindful-Meals-Backend)
 [Frontend](https://github.com/Liliyalexx/Mindful-Meals)
 Features
-Dietary-Specific Search: Find restaurants based on dietary preferences (gluten-free, vegan, vegetarian, etc.)
-User Authentication: Secure sign-up, login, and logout functionality
-Favorites System: Save your favorite restaurants for quick access
-Interactive Map: Visualize restaurant locations on a map
-Review Filtering: See reviews that specifically mention your dietary preference
-Responsive Design: Works across desktop and mobile devices*
+- **Dietary-Specific Search**: Find restaurants based on dietary preferences (gluten-free, vegan, vegetarian, etc.)
+- **User Authentication**: Secure sign-up, login, and logout functionality
+- **Favorites System**: Save your favorite restaurants for quick access
+- **Interactive Map**: Visualize restaurant locations on a map
+- **Review Filtering**: See reviews that specifically mention your dietary preference
+- **Responsive Design**: Works across desktop and mobile devices*
 
 
 ## Professional Experience
 ### **SWE Apprentice** @ Adobe *(Feb-May 2025)*  
-- Built AI quiz application with OpenAI integration [Quiz Game that uses AI-generated questions based on a chosen theme](https://liliyalexx.github.io/quiz_Game/)
+- Built AI quiz application with OpenAI integration 
 - Built AI Social Media application with image-generating  OpenAI integration  
-- his project is built using the MERN stack (MongoDB, Express.js, React, Node.js) and leverages the Yelp Fusion API to provide real-time restaurant data and Leaflet – Interactive maps.
+- Mindful Meals project is built using the MERN stack (MongoDB, Express.js, React, Node.js) and leverages the Yelp Fusion API to provide real-time restaurant data and Leaflet – Interactive maps.
   
 ### **Software Engineer** @ Anthem Blue Cross Blue Shield  
 *(Infosys Project | Aug 2022-Aug 2023)*  
