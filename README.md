@@ -22,18 +22,24 @@ Full-stack software Engineer with an economics background, specializing in JavaS
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Heroku-430098?style=flat-square)](https://social-media-visuality-6b16f66b0b08.herokuapp.com/)
 
 *AI-generated content + Weather API integration*
-
-
-## 🥗 Mindful Meals is a full-stack application designed to help users find restaurants that cater to specific dietary needs.
-[![Live Demo](https://mindful-meals.netlify.app/sign-in)]
-[Backend](https://github.com/Liliyalexx/Mindful-Meals-Backend)
-[Frontend](https://github.com/Liliyalexx/Mindful-Meals)
-
 ### Tech Highlights:
 - **Architecture**: MVC with Mongoose schemas
 - **Innovation**: DeepAI image generation engine
 - **Security**: Passport.js authentication
 - **UI**: Tailwind CSS responsive design
+
+## 🥗 Mindful Meals is a full-stack application designed to help users find restaurants that cater to specific dietary needs.
+[![Live Demo](https://mindful-meals.netlify.app/sign-in)]
+[Backend](https://github.com/Liliyalexx/Mindful-Meals-Backend)
+[Frontend](https://github.com/Liliyalexx/Mindful-Meals)
+Features
+Dietary-Specific Search: Find restaurants based on dietary preferences (gluten-free, vegan, vegetarian, etc.)
+User Authentication: Secure sign-up, login, and logout functionality
+Favorites System: Save your favorite restaurants for quick access
+Interactive Map: Visualize restaurant locations on a map
+Review Filtering: See reviews that specifically mention your dietary preference
+Responsive Design: Works across desktop and mobile devices*
+
 
 ## Professional Experience
 ### **SWE Apprentice** @ Adobe *(Feb-May 2025)*  
