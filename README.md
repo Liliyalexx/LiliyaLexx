@@ -23,6 +23,12 @@ Full-stack software Engineer with an economics background, specializing in JavaS
 
 *AI-generated content + Weather API integration*
 
+
+## 🥗 Mindful Meals is a full-stack application designed to help users find restaurants that cater to specific dietary needs.
+[![Live Demo](https://mindful-meals.netlify.app/sign-in)]
+[Backend](https://github.com/Liliyalexx/Mindful-Meals-Backend)
+[Frontend](https://github.com/Liliyalexx/Mindful-Meals)
+
 ### Tech Highlights:
 - **Architecture**: MVC with Mongoose schemas
 - **Innovation**: DeepAI image generation engine
@@ -30,12 +36,11 @@ Full-stack software Engineer with an economics background, specializing in JavaS
 - **UI**: Tailwind CSS responsive design
 
 ## Professional Experience
-
-
 ### **SWE Apprentice** @ Adobe *(Feb-May 2025)*  
-- Built AI quiz application with OpenAI integration
+- Built AI quiz application with OpenAI integration [Quiz Game that uses AI-generated questions based on a chosen theme](https://liliyalexx.github.io/quiz_Game/)
 - Built AI Social Media application with image-generating  OpenAI integration  
-
+- his project is built using the MERN stack (MongoDB, Express.js, React, Node.js) and leverages the Yelp Fusion API to provide real-time restaurant data and Leaflet – Interactive maps.
+  
 ### **Software Engineer** @ Anthem Blue Cross Blue Shield  
 *(Infosys Project | Aug 2022-Aug 2023)*  
 - Developed 25+ healthcare portal features using Java/Spring Boot/DRL  
