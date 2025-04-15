@@ -17,7 +17,7 @@ Full-stack software Engineer with an economics background, specializing in JavaS
 **Data:** MongoDB, SQL, Oracle, AWS  
 **AI/ML:** OpenAI, DeepAI integration  
 
-## Quiz Game with AI-generated questions
+## 🎮❓🏆 Quiz Game with AI-generated questions
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Quiz_Game-FFA500?style=flat-square)](https://liliyalexx.github.io/quiz_Game/)
 *Quiz application that uses AI to generate questions based on user-selected topics. The game includes a timer, character selection for the time, background music, and sound effects to enhance the user experience.*
 
@@ -32,7 +32,7 @@ Each question includes 4 options with one correct answer and 2 options with true
 - **Score Tracking** The user's score is displayed at the end of the quiz.
 - **Responsive Design** The application is designed to work on both desktop and mobile devices.
 
-## 🌟 Featured Project: Visuality Social Media
+## 🌐 💬 Featured Project: *Visuality* Social Media
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Heroku-430098?style=flat-square)](https://social-media-visuality-6b16f66b0b08.herokuapp.com/)
 
 *AI-generated content + Weather API integration*
