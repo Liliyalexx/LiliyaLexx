@@ -18,6 +18,31 @@ Full-stack software Engineer with an economics background, specializing in JavaS
 **Data:** MongoDB, SQL, Oracle, AWS  
 **AI/ML:** OpenAI, DeepAI integration  
 
+## 💻 Languages & Frameworks  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
+
+### 🧑‍💻 Frameworks & Libraries  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
+![EJS](https://img.shields.io/badge/-EJS-8e44ad?logoColor=white)  
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)  
+
+## 🛢️ Databases & Tools  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)  
+
+
 ## 🎮❓🏆 Quiz Game with AI-generated questions
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Quiz_Game-FFA500?style=flat-square)](https://liliyalexx.github.io/quiz_Game/)
 *Quiz application that uses AI to generate questions based on user-selected topics. The game includes a timer, character selection for the time, background music, and sound effects to enhance the user experience.*
