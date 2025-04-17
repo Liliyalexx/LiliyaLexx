@@ -11,36 +11,50 @@ Full-stack software Engineer with an economics background, specializing in JavaS
 
 🔗 [LinkedIn](https://linkedin.com/in/liliya-fed) | [GitHub](https://github.com/Liliyalexx)
 
-## 🛠 Technical Skills
+## 🛠 Technical Skills 
 
-**Frontend:** React, Angular, JavaScript, TypeScript  
-**Backend:** Node.js, Spring Boot, Django, REST APIs  
-**Data:** MongoDB, SQL, Oracle, AWS  
-**AI/ML:** OpenAI, DeepAI integration  
+<h2>💻 Languages & Frameworks</h2>
 
-## 💻 Languages & Frameworks  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" />
+</p>
 
-### 🧑‍💻 Frameworks & Libraries  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-![EJS](https://img.shields.io/badge/-EJS-8e44ad?logoColor=white)  
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)  
+<h2>📦 Frameworks & Libraries</h2>
 
-## 🛢️ Databases & Tools  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
-![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-EJS-8e44ad?logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-WebLogic-2C2255?logo=oracle&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Drools-EE0000?logo=redhat&logoColor=white&style=for-the-badge" />
+</p>
+
+<h2>🛢️ Databases & Tools</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
+</p>
+
+<h2>🤖 AI / Machine Learning</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DeepAI-000000?logo=deepai&logoColor=white&style=for-the-badge" />
+</p>
 
 
 ## 🎮❓🏆 Quiz Game with AI-generated questions
