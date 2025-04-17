@@ -33,8 +33,8 @@ Each question includes 4 options with one correct answer and 2 options with true
 - **Score Tracking** The user's score is displayed at the end of the quiz.
 - **Responsive Design** The application is designed to work on both desktop and mobile devices.
 
-## 🌐💬 Featured Project: *Visuality* Social Media
-*AI-generated content + Weather API integration*
+## 🌐💬 Featured Project: *Visuality* Social Media with AI-generated content + Weather API integration
+
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Heroku-430098?style=flat-square)](https://social-media-visuality-6b16f66b0b08.herokuapp.com/)
 
 ### Tech Highlights:
