@@ -95,6 +95,16 @@ Features
 - **Responsive Design**: Works across desktop and mobile devices*
 
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LiliyaLexx&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiliyaLexx&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ## Professional Experience
 ### **SWE Apprentice** @ Adobe *(Feb-May 2025)*  
 - Built AI quiz application with OpenAI integration 
