@@ -34,9 +34,9 @@ Each question includes 4 options with one correct answer and 2 options with true
 - **Responsive Design** The application is designed to work on both desktop and mobile devices.
 
 ## 🌐💬 Featured Project: *Visuality* Social Media
+*AI-generated content + Weather API integration*
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Heroku-430098?style=flat-square)](https://social-media-visuality-6b16f66b0b08.herokuapp.com/)
 
-*AI-generated content + Weather API integration*
 ### Tech Highlights:
 - **Architecture**: MVC with Mongoose schemas
 - **Innovation**: DeepAI image generation engine
