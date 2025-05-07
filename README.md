@@ -57,6 +57,66 @@ Full-stack software Engineer with an economics background, specializing in JavaS
 </p>
 
 
+# Adobe Colorblind Analyzer 🌈
+**An internal tool for web developers & UX/UI designers to create accessible content for colorblind users**
+[Colorblind Analyze](https://colorblind-analyzer-a495ff639427.herokuapp.com/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Adobe_Systems_logo_and_wordmark.svg/60px-Adobe_Systems_logo_and_wordmark.svg.png" width="30" alt="Adobe Logo">
+---
+## 🎯 Why This Matters for me
+"As someone who is 80% deaf and cannot hear high-frequency sounds like children’s or women’s voices, I understand what it’s like to miss important information others take for granted. Colorblind users experience a similar kind of ‘invisible barrier’ — they can’t perceive certain colors that designers often rely on. This tool helps bridge that perceptual gap and ensures no one is left out of the experience."
+
+## 🛠 Technical Implementation
+
+def simulate_colorblindness(color, colorblind_type):
+    r, g, b = [x / 255.0 for x in color]
+    
+    if colorblind_type == 'protanopia':
+        new_r = 0.567 * g + 0.433 * b
+        new_g = 0.558 * g + 0.442 * b
+        new_b = 0.242 * g + 0.758 * b
+    elif colorblind_type == 'deuteranopia':
+        new_r = 0.625 * r + 0.375 * b
+        new_g = 0.7 * r + 0.3 * b
+        new_b = 0.3 * r + 0.7 * b
+    elif colorblind_type == 'tritanopia':
+        new_r = 0.95 * r + 0.05 * g
+        new_g = 0.433 * r + 0.567 * g
+        new_b = g
+    else:
+        gray = 0.299 * r + 0.587 * g + 0.114 * b
+        new_r = new_g = new_b = gray
+    
+    return (int(new_r * 255), int(new_g * 255), int(new_b * 255))
+
+## 🖥 Tech Stack
+Frontend: Django Templates, Bootstrap 5
+
+Backend: Python, Django
+
+Vision: Selenium, PIL (via Pillow), Colorsys
+
+Deployment: Heroku with Selenium buildpacks
+## 🌐💬 *Visuality* Social Media with AI-generated content + Weather API integration
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Heroku-430098?style=flat-square)](https://social-media-visuality-6b16f66b0b08.herokuapp.com/)
+
+### Tech Highlights:
+- **Architecture**: MVC with Mongoose schemas
+- **Innovation**: DeepAI image generation engine
+- **Security**: Passport.js authentication
+- **UI**: Tailwind CSS responsive design
+## 🥗 Mindful Meals is a full-stack application designed to help users find restaurants that cater to specific dietary needs.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=flat-square)](https://mindful-meals.netlify.app/sign-in)
+[Backend](https://github.com/Liliyalexx/Mindful-Meals-Backend)
+[Frontend](https://github.com/Liliyalexx/Mindful-Meals)
+Features
+- **Dietary-Specific Search**: Find restaurants based on dietary preferences (gluten-free, vegan, vegetarian, etc.)
+- **User Authentication**: Secure sign-up, login, and logout functionality
+- **Favorites System**: Save your favorite restaurants for quick access
+- **Interactive Map**: Visualize restaurant locations on a map
+- **Review Filtering**: See reviews that specifically mention your dietary preference
+- **Responsive Design**: Works across desktop and mobile devices*
+
 ## 🎮❓🏆 Quiz Game with AI-generated questions
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Quiz_Game-FFA500?style=flat-square)](https://liliyalexx.github.io/quiz_Game/)
 *Quiz application that uses AI to generate questions based on user-selected topics. The game includes a timer, character selection for the time, background music, and sound effects to enhance the user experience.*
@@ -71,29 +131,6 @@ Each question includes 4 options with one correct answer and 2 options with true
 - **Sound Effects** Correct answers trigger a "ding" sound. Incorrect answers or timeouts trigger a "wrong" sound.
 - **Score Tracking** The user's score is displayed at the end of the quiz.
 - **Responsive Design** The application is designed to work on both desktop and mobile devices.
-
-## 🌐💬 *Visuality* Social Media with AI-generated content + Weather API integration
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Heroku-430098?style=flat-square)](https://social-media-visuality-6b16f66b0b08.herokuapp.com/)
-
-### Tech Highlights:
-- **Architecture**: MVC with Mongoose schemas
-- **Innovation**: DeepAI image generation engine
-- **Security**: Passport.js authentication
-- **UI**: Tailwind CSS responsive design
-
-## 🥗 Mindful Meals is a full-stack application designed to help users find restaurants that cater to specific dietary needs.
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=flat-square)](https://mindful-meals.netlify.app/sign-in)
-[Backend](https://github.com/Liliyalexx/Mindful-Meals-Backend)
-[Frontend](https://github.com/Liliyalexx/Mindful-Meals)
-Features
-- **Dietary-Specific Search**: Find restaurants based on dietary preferences (gluten-free, vegan, vegetarian, etc.)
-- **User Authentication**: Secure sign-up, login, and logout functionality
-- **Favorites System**: Save your favorite restaurants for quick access
-- **Interactive Map**: Visualize restaurant locations on a map
-- **Review Filtering**: See reviews that specifically mention your dietary preference
-- **Responsive Design**: Works across desktop and mobile devices*
-
 
 ## 📈 GitHub Stats
 
