@@ -66,7 +66,7 @@ An internal tool for web developers & UX/UI designers to create accessible conte
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Adobe_Systems_logo_and_wordmark.svg/60px-Adobe_Systems_logo_and_wordmark.svg.png" width="30" alt="Adobe Logo">
 ---
 ## 🎯 Why This Matters for me
-"As someone who is 80% deaf and cannot hear high-frequency sounds like children’s or women’s voices, I understand what it’s like to miss important information others take for granted. Colorblind users experience a similar kind of ‘invisible barrier’ — they can’t perceive certain colors that designers often rely on. This tool helps bridge that perceptual gap and ensures no one is left out of the experience."
+As someone who is 80% deaf and cannot hear high-frequency sounds like children’s or women’s voices, I understand what it’s like to miss important information others take for granted. Colorblind users experience a similar kind of ‘invisible barrier’ — they can’t perceive certain colors that designers often rely on. This tool helps bridge that perceptual gap and ensures no one is left out of the experience.
 
 ## 🛠 Technical Implementation
 
