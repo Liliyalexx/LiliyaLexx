@@ -146,6 +146,17 @@ Each question includes 4 options with one correct answer and 2 options with true
 </p>
 
 ## Professional Experience
+
+### ***Support Engineer** @ Amazon *(May 2025 - present)*
+- Engineered and supported bi-weekly iOS and Android app releases, owning the full release lifecycle from RC builds to production rollout, while ensuring reliability and customer impact mitigation.
+
+- Developed and automated internal tools and scripts (using Python/Bash) to streamline release processes (e.g., Veloce workflows, Jenkins submissions), reducing manual effort by 40%.
+- Integrated real-time monitoring solutions (Crashlytics, Quip dashboards, S3 logs) to track release health metrics (crash rates, ANRs) and trigger alerting for out-of-SLA issues.
+- Owned Post-RC change evaluation and patching workflows, working closely with developers to identify root causes, submit code-level fixes, and validate stability before deployment.
+- Led daily release stand-ups, facilitated cross-team debugging sessions, and contributed to code reviews and technical discussions related to release blockers or Sev1/2 incidents.
+- Built and maintained release infrastructure documentation (MCMs, playbooks, rollback SOPs), improving onboarding time for new engineers by 30%.
+- Collaborated with QA, developers, TPMs, and store partners (Apple, Google) to deliver app updates, resolve store rejections, and publish builds (IPA/AAB) via automated CLI tools (Transporter, Play Console APIs).
+
 ### **SWE Apprentice** @ Adobe *(Feb-May 2025)*  
 - Built AI quiz application with OpenAI integration 
 - Built AI Social Media application with image-generating  OpenAI integration  
