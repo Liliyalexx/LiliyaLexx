@@ -149,7 +149,7 @@ Each question includes 4 options with one correct answer and 2 options with true
 
 ## 👩‍💻 Professional Experience
 
-### ***Support Engineer** @ Amazon *(May 2025 - present)*
+### **Support Engineer** @ Amazon *(May 2025 - present)*
 - Engineered and supported bi-weekly iOS and Android app releases, owning the full release lifecycle from RC builds to production rollout, while ensuring reliability and customer impact mitigation.
 
 - Developed and automated internal tools and scripts (using Python/Bash) to streamline release processes (e.g., Veloce workflows, Jenkins submissions), reducing manual effort by 40%.
