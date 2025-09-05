@@ -56,6 +56,7 @@ Full-stack software Engineer with an economics background, specializing in JavaS
   <img src="https://img.shields.io/badge/DeepAI-000000?logo=deepai&logoColor=white&style=for-the-badge" />
 </p>
 
+## 💻 Projects
 
 ## 🌈 Adobe Colorblind Analyzer 
 
@@ -65,8 +66,9 @@ An internal tool for web developers & UX/UI designers to create accessible conte
 [Colorblind Analyze](https://colorblind-analyzer-a495ff639427.herokuapp.com/)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Adobe_Systems_logo_and_wordmark.svg/60px-Adobe_Systems_logo_and_wordmark.svg.png" width="30" alt="Adobe Logo">
 ---
-## 🎯 Why This Matters for me
-As someone who is 80% deaf and cannot hear high-frequency sounds like children’s or women’s voices, I understand what it’s like to miss important information others take for granted. Colorblind users experience a similar kind of ‘invisible barrier’ — they can’t perceive certain colors that designers often rely on. This tool helps bridge that perceptual gap and ensures no one is left out of the experience.
+ 🎯 Why This Matters for me
+<p> As someone who is 80% deaf and cannot hear high-frequency sounds like children’s or women’s voices, I understand what it’s like to miss important information others take for granted. Colorblind users experience a similar kind of ‘invisible barrier’ — they can’t perceive certain colors that designers often rely on. This tool helps bridge that perceptual gap and ensures no one is left out of the experience.
+</p>
 
 ## 🛠 Technical Implementation
 
@@ -145,7 +147,7 @@ Each question includes 4 options with one correct answer and 2 options with true
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiliyaLexx&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## Professional Experience
+## 👩‍💻 Professional Experience
 
 ### ***Support Engineer** @ Amazon *(May 2025 - present)*
 - Engineered and supported bi-weekly iOS and Android app releases, owning the full release lifecycle from RC builds to production rollout, while ensuring reliability and customer impact mitigation.
