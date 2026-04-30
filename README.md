@@ -52,7 +52,8 @@ Full-stack software Engineer with an economics background, specializing in JavaS
 
 <h2>🤖 AI / Machine Learning</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude%20API-6B46C1?logo=anthropic&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?logo=openai&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/DeepAI-000000?logo=deepai&logoColor=white&style=for-the-badge" />
 </p>
 
