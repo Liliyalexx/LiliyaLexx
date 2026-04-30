@@ -58,6 +58,26 @@ Full-stack software Engineer with an economics background, specializing in JavaS
 
 ## 💻 Projects
 
+## 🚀 Featured Project
+
+### 🏋️‍♀️ GYMprogrm — AI Personal Training Platform
+
+🔗 https://github.com/Liliyalexx/GYMprogrm  
+🌐 https://gymprogrm.org  
+
+AI-powered full-stack platform for trainers and self-serve users:
+
+- Generate workout programs with AI (Claude)
+- Analyze blood tests and suggest training adjustments
+- AI Coach (chat-based trainer + nutritionist)
+- Client portal (PWA — installable mobile app)
+- Workout tracking + billing + progress analytics
+
+**Tech Stack:**  
+Python (Django), PostgreSQL, Claude API, OpenAI (DALL·E), Cloudinary, Railway
+
+👉 Built from scratch and used with real clients
+
 ## 🌈 Adobe Colorblind Analyzer 
 
 An internal tool for web developers & UX/UI designers to create accessible content for colorblind users
