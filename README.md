@@ -1,7 +1,7 @@
 # Liliya Fedyurina <img src="https://github.com/user-attachments/assets/1018e86d-3abc-4e3b-ab3c-31fa623211c4" alt="profile" width="45" height="45"/>
 
 
-📍 Lynnwood, US 98036  
+📍 Palo Alto, US 94306  
 📧 liliya.fedyurina@gmail.com  
 📞 734-623-3211  
 
